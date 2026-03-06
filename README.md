@@ -26,6 +26,7 @@ Aplikasi absensi sederhana berbasis web.
 
 ### 📌 Laravel CRUD App
 Aplikasi CRUD dengan autentikasi login.
+
 ---
 
 ### 🌐 Connect With Me

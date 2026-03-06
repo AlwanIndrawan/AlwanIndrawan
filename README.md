@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alwan Indrawan</h1>
+<h3 align="center">Web Developer from Indonesia</h3>
 
-<!--
-**AlwanIndrawan/AlwanIndrawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Laravel & Web Development**
+- 💻 I love building **Web Applications**
+- 📫 How to reach me: **alwanindrawanazis@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Alwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/alwanindrawan?igsh=NWwxajU4MjhmeTh5)

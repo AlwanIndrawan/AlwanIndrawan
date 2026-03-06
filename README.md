@@ -16,11 +16,23 @@
 </p>
 
 ---
+## 📂 Featured Projects
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=AlwanIndrawan&theme=tokyonight)
+### 📌 Web Kegiatan Kanwil
+Website untuk manajemen kegiatan kantor.
 
+### 📌 Sistem Absensi
+Aplikasi absensi sederhana berbasis web.
+
+### 📌 Laravel CRUD App
+Aplikasi CRUD dengan autentikasi login.
 ---
 
 ### 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/alwanindrawan?igsh=NWwxajU4MjhmeTh5)
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>

@@ -8,20 +8,52 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-```javascript
-const alwan = {
-    location: "Indonesia",
-    role: "Web Developer",
-    focus: "Laravel Development",
-    passion: ["Coding", "Learning Tech", "Building Web Apps"]
-};
+- 💻 I enjoy building **Web Applications**
+- 🌱 Currently learning **Laravel & Backend Development**
+- 🚀 Always exploring new technologies
+- 📍 Indonesia
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" /> </p>
+---
 
-<p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"> </p>
+## 🛠 Tech Stack
 
-<p align="center"> <a href="https://github.com/USERNAME"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"> </a> <a href="#"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"> </a> </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+</p>
 
-<p align="center"> ✨ "Code. Learn. Improve. Repeat." ✨ </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/> ```
+---
+
+## 📂 Featured Projects
+
+### 📌 Web Kegiatan Kanwil
+Website untuk manajemen kegiatan kantor.
+
+### 📌 Sistem Absensi
+Aplikasi absensi sederhana berbasis web.
+
+### 📌 Laravel CRUD App
+Aplikasi CRUD dengan autentikasi login.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>

@@ -42,11 +42,11 @@ Aplikasi CRUD dengan autentikasi login.
 
 <p align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/AlwanIndrawan">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/alwanindrawan?igsh=NWwxajU4MjhmeTh5">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram">
 </a>
 

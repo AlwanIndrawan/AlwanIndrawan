@@ -18,12 +18,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Alwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Alwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwanIndrawan&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlwanIndrawan&theme=tokyonight)
 
 ---
 

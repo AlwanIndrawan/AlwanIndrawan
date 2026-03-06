@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alwan Indrawan</h1>
+<h1 align="center">Hi 👋, I'm Alwan Indrawan Azis</h1>
 <h3 align="center">Web Developer from Indonesia</h3>
 
 ---
